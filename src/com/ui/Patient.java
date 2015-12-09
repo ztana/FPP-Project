@@ -73,7 +73,7 @@ public class Patient extends JFrame {
 		lblName.setBounds(10, 42, 177, 14);
 		contentPane.add(lblName);
 		
-		JLabel lblSex = new JLabel("Sex:");
+		JLabel lblSex = new JLabel("Gender:");
 		lblSex.setHorizontalAlignment(SwingConstants.RIGHT);
 		lblSex.setFont(new Font("Tahoma", Font.BOLD, 12));
 		lblSex.setBounds(10, 67, 177, 14);
